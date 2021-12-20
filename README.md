@@ -7,7 +7,7 @@
 * 3. make clean;make
 
 ### Note
-* note: compilation requires java such as 1.7.0_79
+* compilation requires java such as 1.7.0_79
 
 * based on https://github.com/widora/u-boot-mt7688
 ## Thanks to Manfeel, cleanwrt, Piotr Dymac, Adam Dunkels.
