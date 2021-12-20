@@ -1,7 +1,7 @@
 # Uboot Flashforge
 #### Uboot for Flashforge Adventurer 3 / Monoprice Voxel / others (with Widora web recovery)
 ***
-# How to use
+# How to build
 * 1. make menuconfig
 * 2. select MT7628 board
 * 3. make clean;make
