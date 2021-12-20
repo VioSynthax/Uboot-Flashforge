@@ -1,5 +1,5 @@
 # Uboot Flashforge
-#### uboot for Flashforge Adventurer 3 / Monoprice Voxel (with Widora web recovery)
+#### Uboot for Flashforge Adventurer 3 / Monoprice Voxel (with Widora web recovery)
 ***
 # How to use
 * 1. make menuconfig
