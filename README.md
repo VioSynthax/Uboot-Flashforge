@@ -1,4 +1,4 @@
-# u-boot-mt7688
+# Uboot Flashforge
 #### uboot for Flashforge Adventurer 3 / Monoprice Voxel (with Widora web recovery)
 ***
 # How to use
